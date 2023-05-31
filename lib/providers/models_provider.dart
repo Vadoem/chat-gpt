@@ -1,5 +1,5 @@
-import 'package:chatgpt_course/models/models_model.dart';
-import 'package:chatgpt_course/services/api_service.dart';
+import 'package:chatgpt_flutter/models/models_model.dart';
+import 'package:chatgpt_flutter/services/api_service.dart';
 import 'package:flutter/cupertino.dart';
 
 class ModelsProvider with ChangeNotifier {
